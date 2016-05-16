@@ -1,0 +1,10 @@
+New log file opened at Mon May 16 13:35:18 BRT 2016 by 13624@pc-ilegra-ab
+Taking next connection to: 62359
+New client attempting to connect on port: 62360-62359
+  Address = /10.99.1.108:62359
+This client on port 62360 has uuid 7c4d562f-af0b-49d5-a992-54902df8a542 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7c4d562f-af0b-49d5-a992-54902df8a542
+Taking next connection to: 62359
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 62359
